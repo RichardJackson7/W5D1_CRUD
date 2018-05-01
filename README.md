@@ -1,24 +1,10 @@
-# README
+Salut Correctrice / Correcteur
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pour ce projet de Movie Database, on va dire que c'était plutôt comparé au Gossip
 
-Things you may want to cover:
+Quand tu téléchargeras ce git en clone ou en zip, n'oublie pas de faire du bundle install --without production, de l'update s'il le faut et tout les petits délires comme ça qu'on aime tant 
 
-* Ruby version
+au cas où tu n'aurais pas vu le lien Heroku
+  https://blooming-oasis-95373.herokuapp.com/
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Amuse-toi bien et rendez-vous sur l'autre projet 
